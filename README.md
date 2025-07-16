@@ -1,4 +1,3 @@
-<img width="1321" height="1139" alt="image" src="https://github.com/user-attachments/assets/ebe46dcd-c920-4bc1-ba76-d4f7d2730175" /># Telegram_bot_quiz_Armenian_History
 # 🇦🇲 Armenian History Quiz Bot
 
 A Telegram quiz bot that tests users' knowledge of Armenian history. Built using Python and `pyTelegramBotAPI`, the bot sends multiple-choice questions and gives instant feedback.
